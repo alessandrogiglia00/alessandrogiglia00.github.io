@@ -1,6 +1,6 @@
 title: Alessandro Giglia
 description: "PhD in Philosophy of Mathematics"
-theme: jekyll-theme-hacker
+theme: theme: jekyll-theme-midnight
 
 # Base configuration
 markdown: kramdown
